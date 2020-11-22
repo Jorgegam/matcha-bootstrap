@@ -1,0 +1,119 @@
+.sect{
+    padding: 120px 0px;
+}
+
+/* Header */
+header{
+    margin-top: 40px;
+}
+header nav {
+    padding: 20px 80px !important;
+}
+
+header .nav-link{
+    font-family: "IBM Plex Sans", Arial, sans-serif !important;
+    color: rgb(2, 81, 87) !important;
+    font-size: 16px !important;
+    font-style: normal !important;
+    font-weight: 500 !important;
+    letter-spacing: -0.5px !important;
+    transition: all .2s ease-in-out;
+}
+
+header .nav-link:hover{    
+    border-bottom: 2px solid  #0056b3;
+}
+
+header .dropdown-item{
+    color: rgb(2, 81, 87) !important;
+}
+
+header form a{
+    color: rgb(2, 81, 87) !important;
+    font-weight: 900 !important; 
+    font-size: 14px !important;
+    transition: all 2s;
+}
+
+header form a:hover{
+    color:  rgb(103, 181, 75) !important;
+    text-decoration: none !important;
+}
+
+header form button{
+    background-color: rgb(2, 81, 87) !important;
+    color: #ffffff !important;
+    transition: all 2s;
+}
+
+header form button:hover{
+    background-color: rgb(103, 181, 75) !important;
+}
+
+/* Main */
+
+main .jumbotron .display-4{
+    font-family: vesterbroextrabold,Arial,sans-serif !important;
+    color: rgb(2, 81, 87) !important;
+    font-size: 60px !important;
+}
+
+main .jumbotron .lead{
+    color: rgb(70, 72, 76) !important;
+    font-family: "IBM Plex Sans", Arial, sans-serif !important;
+}
+
+main .jumbotron .sign-up-j a{
+    padding: 10px 24px !important;
+}
+
+main .jumbotron .lead-small {
+    color: rgba(139, 139, 139, 0.8) !important;
+    font-family: "IBM Plex Sans", Arial, sans-serif !important;
+    font-size: 14px !important;
+}
+
+main .sect_lbl {
+    color: rgb(74, 74, 74) !important;
+    font-family: "IBM Plex Sans", Arial, sans-serif !important;
+    font-size: 13px;
+    opacity: .4;
+}
+
+/* Features */
+#features .hf h1{
+    color: rgb(2, 81, 87);
+    font-family: vesterbroextrabold, Arial, sans-serif;
+    font-size: 55px;
+}
+
+#features .hf p{
+    color: rgb(74, 74, 74);
+    font-family: "IBM Plex Sans", Arial, sans-serif;
+    font-size: 18px
+}
+
+#features .card-title{
+    color: rgb(52, 52, 52) !important;
+    font-family: "IBM Plex Sans", Arial, sans-serif !important;
+    font-size: 21px;
+}
+
+#features .card-body a:hover{
+    text-decoration: none;
+}
+
+#features .card-title:hover{
+    color: rgb(103, 181, 75) !important;
+    
+}
+
+#features .card-body .card-text{
+    color: rgb(74, 74, 74);
+    font-family: "IBM Plex Sans", Arial, sans-serif;
+    font-size: 18px
+}
+
+#features .card{
+    border: none;
+}
