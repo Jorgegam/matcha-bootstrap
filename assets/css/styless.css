@@ -118,6 +118,49 @@ main .sect_lbl {
     font-size: 18px
 }
 
+#brands .carousel .imgbrand{
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    position: relative !important;
+    height: 20vw !important;
+    border-top-left-radius: 10px !important;
+    border-top-right-radius: 10px !important;
+}
+
+#brands .bt-vf{
+    background-color:  rgb(2, 81, 87) !important;
+    color: #ffffff !important;
+}
+
+#brands .bt-vf:hover{
+    background-color: rgb(103, 181, 75) !important;;
+}
+
+#brands .card-title{
+    color: rgb(2, 81, 87) !important;
+}
+
+#brands .customer-title{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 30px;
+    color: #000;
+    margin-bottom: 20px;
+}
+
+#brands .icon img{
+    max-width: 26px;
+    height: 24px;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: rgb(2, 81, 87);
+    color: white;
+}
+
+
 /* Compare table */
 #compare-table .table th img{
     height: 48px;
