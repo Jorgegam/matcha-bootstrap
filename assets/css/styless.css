@@ -228,3 +228,42 @@ footer .list-group li a:hover{
 footer .sn > *{
     margin-left: 19px;
 }
+
+
+/* Media Query */
+
+@media (max-width: 1197px) { 
+    header nav{
+        padding: 20px 40px !important;
+    }
+}
+
+@media (max-width: 1117px) { 
+    header nav{
+        padding: 20px 10px !important;
+    }
+}
+
+@media (max-width: 1117px) { 
+    header nav{
+        padding: 20px 80px !important;
+    }
+}
+
+@media (max-width: 991px) { 
+    main .sign-up-j a{
+        width: 100%;
+    }
+    #tools .card{
+        width: 13rem;
+    }
+    .sect{
+        padding: 60px 0px !important;
+    }
+    #blocks img{
+        width: auto;
+        height: auto;
+    }
+}
+
+
