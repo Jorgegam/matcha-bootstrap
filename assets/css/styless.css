@@ -1,0 +1,60 @@
+/* Bloques */
+
+#blocks img{
+    width: auto;
+}
+
+/* Footer */
+footer{
+    background-color: rgb(255, 251, 247)
+}
+
+footer > *{
+    font-family: "IBM Plex Sans", Arial, sans-serif;
+}
+
+footer .f1{
+    background-color: rgb(2, 81, 87);
+}
+
+footer .schedule{
+    color: rgb(106, 191, 75);    
+}
+
+footer .gtf{
+    background-color: rgb(106, 191, 75);
+}
+
+footer .f2 h5{
+    font-size: 15px;
+    color: rgb(2, 81, 87);
+    font-family: "IBM Plex Sans", Arial, sans-serif
+}
+
+footer .f2 .sus{
+    background-color: rgb(2, 81, 87);
+}
+
+footer .f2 .sus:hover {
+    background-color: #67b54b;
+}
+
+footer .list-group li{
+    list-style: none;
+    margin-bottom: 20px;
+    font-family: "IBM Plex Sans", Arial, sans-serif;
+}
+
+footer .list-group li a{
+    color: rgb(74, 74, 74) !important;
+    font-size: 18px
+}
+
+footer .list-group li a:hover{
+    text-decoration: none;
+    color: #67b54b !important;
+}
+
+footer .sn > *{
+    margin-left: 19px;
+}
