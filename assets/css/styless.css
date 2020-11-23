@@ -1,0 +1,42 @@
+
+
+/* Tools */
+#tools h2{
+    color: rgb(2, 81, 87);
+    font-family: vesterbroextrabold, Arial, sans-serif;
+    font-size: 36px
+}
+
+#tools .card{
+    width: 18rem;
+}
+
+#tools .card-body img{
+    width: 30px;
+    height: 60px;
+}
+
+
+/* Brands */
+
+#brands .ar h1{
+    color: rgb(2, 81, 87);
+    font-family: vesterbroextrabold, Arial, sans-serif;
+    font-size: 55px;
+}
+
+#brands .ar p{
+    color: rgb(74, 74, 74);
+    font-family: "IBM Plex Sans", Arial, sans-serif;
+    font-size: 18px
+}
+
+/* Compare table */
+#compare-table .table th img{
+    height: 48px;
+}
+
+#compare-table .table td {
+    text-align: center;
+    vertical-align: middle;
+}
